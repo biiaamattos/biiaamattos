@@ -1,10 +1,13 @@
 ### Olá eu sou Beatriz Mattos 👋
 
+<div align="center">
+
 ![Beatriz GitHub status ](https://github-readme-stats.vercel.app/api?username=biiaamattos&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biiaamattos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+</div>
 
 
 
